@@ -1,13 +1,6 @@
 # ANN-Classification-Churn
 project -- link -> https://ann-classification-churn-sdzp23npe44dffcwvqkvbe.streamlit.app/
 
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# [saurav3k2/ANN-Classification-Churn](https://github.com/saurav3k2/ANN-Classification-Churn)  given live have a project of ann so create a md file for github reprosertries
-
-Here’s a professional **GitHub README.md** draft for your repository **ANN-Classification-Churn**. It documents your artificial neural network (ANN)-based churn prediction project clearly and is formatted for GitHub rendering:
-
-***
 
 # ANN-Classification-Churn
 
