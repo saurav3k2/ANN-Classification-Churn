@@ -124,10 +124,6 @@ Data Science Enthusiast | Machine Learning Developer
 
 ***
 
-Would you like a **README variant including project screenshots** or badges (like model accuracy, Python version)? I can add those next for a more polished GitHub presentation.
-<span style="display:none">[^1]</span>
 
-<div align="center">⁂</div>
 
-[^1]: https://github.com/saurav3k2/ANN-Classification-Churn
 
