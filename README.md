@@ -1,8 +1,4 @@
 # ANN-Classification-Churn
-project -- link -> https://ann-classification-churn-sdzp23npe44dffcwvqkvbe.streamlit.app/
-
-
-# ANN-Classification-Churn
 
 A machine learning project designed to predict customer churn using an **Artificial Neural Network (ANN)** model. Built with Python and deployed using **Streamlit**, this project demonstrates how deep learning can be applied to classification problems with structured data.
 
